@@ -1,5 +1,7 @@
 python-dotenv
 langchain
+langchain_openai
 langchain_google_genai
 langchain_groq
 langchain_huggingface
+sentence-transformers
