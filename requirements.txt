@@ -6,3 +6,5 @@ langchain_groq
 langchain_huggingface
 sentence-transformers
 grandalf
+langgraph
+langchain_community
